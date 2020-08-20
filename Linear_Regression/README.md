@@ -2,7 +2,7 @@
 <h1> Linear Regression Project </h1>
 This project is for an Ecommerce company based in New York City that sells clothing online but they also have in-store style and clothing advise sessions. Customers come in to the store, have sessions/meetings with a personal stylist, then they can go home and order either on a mobile app or website for the clothes they want.
 The company is trying to decide whether to focus their efforts on their mobile app experience or their website.
-<img src="Capture1.png"> </img>
+<img src="Capture1.PNG"> </img>
 <h1> Simple Linear Regression </h1>
 
 <em> Simple linear regression </em> lives up to its name: it is a very straightforward approach for predicting a quantitative response<em> Y </em> on the basis of a single predictor variable <em> X</em>. It assumes that there is approximately a linear relationship between <em> X </em> and <em> Y </em>. Mathematically, we can write this linear relationship as 
