@@ -15,22 +15,22 @@ In this first part, data visualizations and analysis were practiced. For this pu
 Some examples:
 
 <figure>
-<img src="Captures/Plotly_capture.PNG" >
-<h6> Stock prices for given banks by using plotly  </h6>
+<img src="Plotly_capture.png" >
+  <h6 style="text-align:center;"><em> Stock prices for given banks by using plotly  </em></h6>
 </figure>
 
 <figure>
-<img src="Captures/seaborn.PNG" >
-<h6> Correlation between given banks by using seaborn  </h6>
+<img src="seaborn.png" >
+  <h6 style="text-align:center;"> <em>Correlation between given banks by using seaborn</em>  </h6>
 </figure>
 
 
 <figure>
-<img src="Captures/pairplot.PNG" >
-<h6> Seaborn pairplot  </h6>
+<img src="pairplot.png" >
+  <h6 style="text-align:center;"> <em>Seaborn pairplot </em> </h6>
 </figure>
 
 <figure>
-<img src="Captures/choropleth.PNG" >
-<h6> Choropleth map displaying Voting-Age Population per state  </h6>
+<img src="choropleth.png" >
+  <h6 style="text-align:center;"> <em>Choropleth map displaying Voting-Age Population per state </em> </h6>
 </figure>
