@@ -2,7 +2,7 @@
 
 K- means clustering is a simple and elegant approach for partioning a data set into K distinct, non-overlapping clusters. To perform K-means clustering, we must first specify the desired number of clusters K; then the K-means algorithm will assign each observation to exactly one of the K clusters. Figure shows the results obtained from performing K-means clustering on a simulated example consisting of 38 observations in two dimensions, using five as value of K.
 
-<img src="Clustering_example.png"></img>
+<img src="Clustering_example.PNG"></img>
 
 The K-means clustering procedure results from a simple and intuitive mathematical problem. Let <math>C<sub>1</sub> </math>,...,<math>C<sub>K</sub></math> denote sets containing the indices of the observations in each cluster. These sets satisfy two properties:
 
