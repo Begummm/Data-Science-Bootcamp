@@ -1,7 +1,7 @@
 <link rel="stylesheet" type="text/css" href="data.css" />
 <h1> Logistic Regression Project </h1>
 In this project I worked with a fake advertising data set, indicating whether or not a particular internet user clicked on an Advertisement on a company website. I tried to create a model that will predict whether or not they will click on an ad based off the features of that user.
-<img src="Capture.png"> </img>
+<img src="Capture.PNG"> </img>
 
 <h1> Logistic Regression </h1>
 
